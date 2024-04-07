@@ -223,7 +223,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span></div>
+   <div class="credit"> created by <span>Travel and Tour </span></div>
 
 </section>
 
