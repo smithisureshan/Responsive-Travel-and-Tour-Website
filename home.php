@@ -241,12 +241,12 @@
          <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
 
-      <div class="box">
+ <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +0123456789 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +0123456789 </a>
+         <a href="#"> <i class="fas fa-envelope"></i>  abc@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> mumbai, india  </a>
       </div>
 
       <div class="box">
@@ -259,9 +259,10 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> created by <span>Travel and Tour </span></div>
 
 </section>
+
 
 <!-- footer section ends -->
 
